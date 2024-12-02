@@ -13,7 +13,7 @@ A responsive, interactive task management app that helps you organize and track 
 
 ## Demo
 
-Check out the live demo [here](https://yourusername.github.io/task-manager).
+Check out the live demo [here]([https://yourusername.github.io/task-manager](https://dhruvkangaroo.github.io/task-manager/)).
 
 ## Installation
 
