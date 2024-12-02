@@ -19,4 +19,4 @@ Check out the live demo [here](https://dhruvkangaroo.github.io/task-manager/).
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/task-manager.git
+   git clone https://github.com/dhruvkangaroo/task-manager.git
